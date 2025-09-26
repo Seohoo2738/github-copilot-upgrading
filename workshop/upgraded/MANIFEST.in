@@ -1,0 +1,2 @@
+include distribute_setup.py
+distribute-0.6.10.tar.gz
